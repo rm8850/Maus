@@ -8,7 +8,7 @@ public class Grafic_1 extends JFrame {
 	private static final long serialVersionUID = 1L;
 	public Grafic_1() {
         MeinJPanel meinJPanel=new MeinJPanel();
-		this.setSize(400, 300);
+		this.setSize(1800, 300);
         this.setVisible(true);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.add(meinJPanel);
